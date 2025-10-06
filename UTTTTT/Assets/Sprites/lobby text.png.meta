@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 203479e5357b03a4481c9e3b7e0d288a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1158040060455891602
+    second: lobby text_0
+  - first:
+      213: 7084581959760004031
+    second: lobby text_1
+  - first:
+      213: -4251094993965389934
+    second: lobby text_2
+  - first:
+      213: -5459690749968755536
+    second: lobby text_3
+  - first:
+      213: 4517467448461421706
+    second: lobby text_4
+  - first:
+      213: -2381890511225802353
+    second: lobby text_5
+  - first:
+      213: -4915071954929320587
+    second: lobby text_6
+  - first:
+      213: -1066514785679636403
+    second: lobby text_7
+  - first:
+      213: -921689247682121360
+    second: lobby text_8
+  - first:
+      213: 4412284564401577012
+    second: lobby text_9
+  - first:
+      213: -980834965537466706
+    second: lobby text_10
+  - first:
+      213: -3751224279969550482
+    second: lobby text_11
+  - first:
+      213: -8983596638617235680
+    second: lobby text_12
+  - first:
+      213: 4225080550218175439
+    second: lobby text_13
+  - first:
+      213: 4681849093362671844
+    second: lobby text_14
+  - first:
+      213: -7161776025433460256
+    second: lobby text_15
+  - first:
+      213: -2243131127373722178
+    second: lobby text_16
+  - first:
+      213: 4992592200505499825
+    second: lobby text_17
+  - first:
+      213: 7486331938027351525
+    second: lobby text_18
+  - first:
+      213: 8020729763664494501
+    second: lobby text_19
+  - first:
+      213: 4664396758587758868
+    second: lobby text_20
+  - first:
+      213: -7547162670312418464
+    second: lobby text_21
+  - first:
+      213: 668890715666045664
+    second: lobby text_22
+  - first:
+      213: 1065620636304022061
+    second: lobby text_23
+  - first:
+      213: 8236908091750916344
+    second: lobby text_24
+  - first:
+      213: -1284445815154091559
+    second: lobby text_25
+  - first:
+      213: -8142409244842092328
+    second: lobby text_26
+  - first:
+      213: -6719170838754246929
+    second: lobby text_27
+  - first:
+      213: 25566147981955249
+    second: lobby text_28
+  - first:
+      213: 9117357582918226982
+    second: lobby text_29
+  - first:
+      213: 988762444968268964
+    second: lobby text_30
+  - first:
+      213: 6572679958049351858
+    second: lobby text_31
+  - first:
+      213: 4302036259099751058
+    second: lobby text_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lobby text
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 155
+        width: 865
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b450a880384b34b0800000000000000
+      internalID: -5459690749968755536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waiting text
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 917
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292bd7a3f27e3bb30800000000000000
+      internalID: 4302036259099751058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 948148dc004d95d4984c9b242d9b0feb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lobby text: -5459690749968755536
+      lobby text_0: -1158040060455891602
+      lobby text_1: 7084581959760004031
+      lobby text_10: -980834965537466706
+      lobby text_11: -3751224279969550482
+      lobby text_12: -8983596638617235680
+      lobby text_13: 4225080550218175439
+      lobby text_14: 4681849093362671844
+      lobby text_15: -7161776025433460256
+      lobby text_16: -2243131127373722178
+      lobby text_17: 4992592200505499825
+      lobby text_18: 7486331938027351525
+      lobby text_19: 8020729763664494501
+      lobby text_2: -4251094993965389934
+      lobby text_20: 4664396758587758868
+      lobby text_21: -7547162670312418464
+      lobby text_22: 668890715666045664
+      lobby text_23: 1065620636304022061
+      lobby text_24: 8236908091750916344
+      lobby text_25: -1284445815154091559
+      lobby text_26: -8142409244842092328
+      lobby text_27: -6719170838754246929
+      lobby text_28: 25566147981955249
+      lobby text_29: 9117357582918226982
+      lobby text_30: 988762444968268964
+      lobby text_31: 6572679958049351858
+      lobby text_4: 4517467448461421706
+      lobby text_5: -2381890511225802353
+      lobby text_6: -4915071954929320587
+      lobby text_7: -1066514785679636403
+      lobby text_8: -921689247682121360
+      lobby text_9: 4412284564401577012
+      waiting text: 4302036259099751058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
